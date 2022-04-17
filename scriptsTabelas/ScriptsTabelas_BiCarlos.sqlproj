@@ -60,5 +60,10 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="DimMembro.sql" />
+    <Build Include="DimTempo.sql" />
+    <Build Include="DimCategoria.sql" />
+    <Build Include="DimSubCategoria.sql" />
+    <Build Include="FactCcDesjardins.sql" />
+    <Build Include="DimDescricao.sql" />
   </ItemGroup>
 </Project>
