@@ -1,0 +1,9 @@
+{
+	"name": "dfBiCarlos2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "393e0a1c-b17b-4b42-9f31-0486936195da",
+		"tenantId": "64fbe6ec-9a3d-4120-9926-01cc4dafc9f4"
+	}
+}
